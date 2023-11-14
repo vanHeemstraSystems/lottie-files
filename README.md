@@ -1,2 +1,4 @@
-# lottie-files
-Lottie Files
+README.md
+# Lottie Files
+
+Based on "Lottie Files" at https://lottiefiles.com/
